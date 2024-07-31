@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on disabling GoGuardian and district blocking software
 - 📫 How to reach me? discord. my main account is si0kre, my other one is just siokre.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm furry computer science nerd
+- ⚡ Fun fact: i'm a cs nerd
 
 <!---
 siokre/siokre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
