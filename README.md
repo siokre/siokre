@@ -1,6 +1,7 @@
-<h3 align="center">My name is siokre.</h3>
+<h3 align="center">Hello! Here's some information about me.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
+<h3 align="left">Currently working on a proxy that bypasses school spyware:</h3>
 <p align="left">
 </p>
 
