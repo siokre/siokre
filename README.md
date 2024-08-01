@@ -1,18 +1,8 @@
-- 👋 Hi, I’m @siokre
-- 👀 I’m interested in JavaScript and computer science related things.
-- 🌱 I’m currently learning HTML, CSS, and Python.
-- 💞️ I’m looking to collaborate on disabling GoGuardian and district blocking software
-- 📫 How to reach me? discord. my main account is si0kre, my other one is just siokre.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm a cs nerd
+##Hello! Here's some information about me and my projects.
 
-What is my current project? Evade proxy meant to elude school spyware (such as GoGuardian and Securly, using some frameworks from UltraViolet.
+##Projects:
+Evade - Sophisticated web proxy meant for eluding school spyware using frameworks from Ultraviolet
+AntiFirewall - Exploit meant to be used on district issued devices running Chromium/ChromeOS
 
-How to contact me?
-si0kre (discord)
-i check discord daily
-
-<!---
-siokre/siokre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##I can code in several different languages
+*Lua. Most familar with this language as i have around 3-4 years of experience coding it.
