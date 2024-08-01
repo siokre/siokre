@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm a cs nerd
 
+What is my current project? Evade proxy meant to elude school spyware (such as GoGuardian and Securly, using some frameworks from UltraViolet.
+
 <!---
 siokre/siokre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
